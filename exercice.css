@@ -1,1 +1,12 @@
+ul
+{
+    color: red ;
+}
 
+ul li {
+    color: black;
+    
+}
+li>ul{
+    color: black;
+}
